@@ -11,8 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SocketDemo" target="1.5" />
-      <module name="SocketNIODemo" target="1.5" />
+      <module name="SocketDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
