@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SocketDemo" />
         <module name="SocketNIODemo" />
+        <module name="SocketDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SocketDemo" target="1.8" />
+      <module name="SocketDemo" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
