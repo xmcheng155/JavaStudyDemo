@@ -8,10 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SocketDemo" />
         <module name="SocketNIODemo" />
+        <module name="FunctionalProgrammingDemo" />
         <module name="SpringDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="FunctionalProgrammingDemo" target="1.8" />
       <module name="SocketDemo" target="1.8" />
       <module name="SpringDemo" target="1.5" />
     </bytecodeTargetLevel>

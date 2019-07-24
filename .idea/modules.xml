@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgrammingDemo/FunctionalProgrammingDemo.iml" filepath="$PROJECT_DIR$/FunctionalProgrammingDemo/FunctionalProgrammingDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketDemo/SocketDemo.iml" filepath="$PROJECT_DIR$/SocketDemo/SocketDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringDemo/SpringDemo.iml" filepath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" />
     </modules>
